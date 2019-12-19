@@ -40,6 +40,7 @@ suele encontrar soluciones negativas o ninguna en absoluto.
 
 La integración continua  mejora la productividad del equipo al liberar a los  desarrolladores  de las tareas manuales y fomentar comportamientos que ayudan a reducir la cantidad de errores y bugs enviados a los clientes.
   
+  
  
 CONCLUSIONES
 
