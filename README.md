@@ -6,7 +6,6 @@ Los integrantes de este grupo son:
 Vladimir Ceballos Adarve. Cod 1111110386
 Jose Nicolas Felipe Pachon Roncancio. Cod 1420012631
 Leidy Johana Sierra Quiroga. Cod 1911983280
-John Richard Velásquez Prieto. Cod 1310012706
 
 DESCRIPCION  DE LA METODOLOGIA
 
@@ -15,14 +14,14 @@ Una ventaja  fundamental de utilizar  herramientas  de  integración continua es
 De igual forma al realizar pruebas  más frecuentes  que permiten  al equipo  descubrir  y arreglar  los  errores  antes de que se conviertan en problemas  más  graves.
 Así mismo  es importante  esta práctica  de  transparencia  del proceso. Todo  el equipo  trabaja  utilizando  el mismo repositorio de  código de la información del servidor de integración es pública, para todo el equipo  e incluso  a veces para  el personal  de  enfermeras,  médicos y  especialistas de la salud, se conoce con precisión  el estado  real del proyecto. No hay que esperar  durante  meses para  saber como van las  cosas y las  reuniones de  seguimiento pueden ser cortas y precisas.
 
-PROBLEMA  DE ASIGNACION  DE ENFERMERAS, JEFES, PARAMEDICOS, MEDICOS Y ESPECIALISTAS  
+PROBLEMA  DE ASIGNACION DE TURNOS DE ENFERMERAS. 
 Descripción del problema
-En todo el mundo se realiza una prestación de atención de salud continuada durante 24 horas, los 365 días del año, por esto es necesario que exista un sistema de rotación de enfermeras, Jefes enfermeras,  paramédicos, médicos y especialistas en el que un mismo paciente pueda ser atendido por varios profesionales de la salud en el tiempo que esté hospitalizado, esta es la razón principal de porque este problema es tan conocido.
+En todo el mundo se realiza una prestación de atención de salud continuada durante 24 horas, los 365 días del año, por esto es necesario que exista un sistema de rotación de personal de enfermerias, Jefes enfermeras en el que un mismo paciente pueda ser atendido por varios profesionales de la salud en el tiempo que esté hospitalizado, esta es la razón principal de porque este problema es tan conocido.
 
 Cada hospital necesita generar reiteradamente una lista apropiada del personal de la salud y estas son generadas manualmente por el enfermero (jefe del servicio), sin embargo, a lo largo de los años esto se ha transformado en un problema, ya que es una tarea difícil para el que lo ejecuta y se utiliza una gran cantidad de tiempo desarrollando estas listas, especialmente cuando hay mucho requerimiento de personal, como por ejemplo en la épocas de invierno o en las épocas en que muchos profesionales salen de vacaciones, también en algunos hospitales dan la posibilidad de que algunos enfermeros y/o paramédicos escojan sus turnos.
 
 Este proyecto   consiste  en producir una lista   de asignaciones  de turnos (mensual)
-para  el personal de  enfermería,  jefes  enfermeras, paramédicos, médicos y especialistas en el centro  de salud, hospital,  sujeto  a una  variedad  de restricciones  que pueden  ser  especificas  en  cada  hospital,  como  también  a nivel  general.  Dentro de  estas  restricciones  encontramos:
+para  el personal de  enfermería en el centro  de salud, hospital,  sujeto  a una  variedad  de restricciones  que pueden  ser  especificas  en  cada  hospital,  como  también  a nivel  general.  Dentro de  estas  restricciones  encontramos:
 
 Restricciones duras:  son aquellas  que deben  satisfacerse, por lo tanto  son obligatorias y deben  cumplirse siempre, por ejemplo las  capacidades  o disponibilidades  de los  recursos.
 
